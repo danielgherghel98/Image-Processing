@@ -1,0 +1,69 @@
+﻿  OpenCVApplication.cpp
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(404,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(437,47): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(476,7): warning C4101: 'fName': unreferenced local variable
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(543,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(567,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(596,16): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(703,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(707,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(712,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(851,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(1602,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(1671,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(1731,24): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(1967,49): warning C4244: '+=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(1970,18): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2371,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2395,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2396,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2398,19): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2419,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2465,36): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2522,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2523,18): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2623,29): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2676,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2685,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(2729,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication.cpp(3311,9): warning C4101: 'T': unreferenced local variable
+  OpenCVApplication.vcxproj -> D:\UTCN\AN 3 SEM 2\PI\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
